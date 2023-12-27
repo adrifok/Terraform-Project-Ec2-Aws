@@ -1,0 +1,3 @@
+**/.terraform/**
+*.md
+README.md
